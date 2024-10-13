@@ -9,7 +9,9 @@ I'm passionate about AI, Machine Learning, and Data Analysis. My work focuses on
 - 💻 Python
 - 🤖 Machine Learning
 - 📈 Data Analysis
-- 🌐 Web Development 
+- 🌐 Web Development
+
+  ## More about Me!
 
 - 🔭 I’m currently working on Rover for crop cultivation and harvesting 
 - 🌱 I’m currently learning Advanced Deep learning techniques 
